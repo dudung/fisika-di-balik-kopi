@@ -5,11 +5,12 @@ Terdapat suatu mini workshop pada acara Pekan Literasi Daerah Karawang 2026. Min
 
 
 ## posters
-+ [Fisika di Balik Kopi0](pdf/Poster_1_Fisika_di_Balik_Kopi.pdf)
++ [Fisika di Balik Kopi](pdf/Poster_1_Fisika_di_Balik_Kopi.pdf)
 + [Pengeringan Biji Kopi](pdf/Poster_2_Pengeringan_Biji_Kopi.pdf)
 + [Penggunaan Pohon Naungan Lamtoro](pdf/Poster_3_Penggunaan_Pohon_Naungan_Lamtoro.pdf)
 + [Sifat Higroskopis Bubuk Kopi](pdf/Poster_4_Sifat_Higroskopis_Bubuk_Kopi.pdf)
 
 
 ## diskusi
-Silakan membuat [issue baru](https://github.com/dudung/fisika-di-balik-kopi/issues/new) dan tuliskan pemikiran Anda.
+Silakan membuat menjelajahi [topik percakapan yang ada](https://github.com/dudung/fisika-di-balik-kopi/issues) atau
+ [membuat topik percakapan baru](https://github.com/dudung/fisika-di-balik-kopi/issues/new) dan tuliskan pemikiran Anda.
